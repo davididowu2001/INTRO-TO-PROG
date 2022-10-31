@@ -1,0 +1,43 @@
+ID,Genre,Title,Author,Purchase Date,Member Id
+1,Manga,Tokyo Ghoul,Kishimoto,12/09/1999,0
+2,Fiction,Ulysses,James Joyce,13/09/1999,eren
+3,Fiction,The Great Gatsby,Scott Fitzgerald,12/09/1999,0
+4,Fiction,Moby Dick,Herman Merville,13/10/2001,0
+5,Motivational,Atomic Habits,James Clear,12/10/2001,0
+6,Motivational,Ego is the Enemy,Ryan Holiday,10/10/2000,0
+7,Manga, One Piece,Oda Echiro,20/11/1999,0
+8,Business,Rich Dad Poor Dad,Robert Kyosaki,19/09/2000,0
+9,Business,Psychology of Monney,Morgan Housel,20/09/2000,0
+10,Romance,Eighty shades of grey,Dripville,09/03/1999,0
+11,Fiction,Moby Dick,Herman Merville,13/10/2001,0
+12,Motivational,Atomic Habits,James Clear,12/10/2001,0
+13,Motivational,Ego is the Enemy,Ryan Holiday,10/10/2000,0
+14,Manga, One Piece,Oda Echiro,20/11/1999,0
+15,Manga,Tokyo Ghoul,Kishimoto,12/09/1999,0
+16,Fiction,Ulysses,James Joyce,13/09/1999,0
+17,Fiction,The Great Gatsby,Scott Fitzgerald,12/09/1999,0
+18,Romance,Percy Jackson,Rick Riordan,12/09/1999,0
+19,Motivational,The Drive and Power,Dwayne Johnson,12/10/1999,0
+20,Horror,IT,Stephen King,13/09/1998,0
+21,Horror,The Shining,Stephen King,15/10/2000,0
+22,Horror,Demon slayer,Kishimoto,17/10/2000,0
+23,Action,Spiderman,Stan Lee,19/09/2000,cele
+24,Action,Thor Love,Stan Lee, 19/09/2000,0
+25,Action,Venom,Sam Raimi,22/10/2000,0
+26,Romance,Notebook,Ann Summer,28/10/2000,0
+27,Romance,Twilight,Steph Meyer,19/10/2000,0
+28,Science,Life of Pi,Yann Martel,22/07/2000,0
+29,Fictionn,Lolita,Validr Nabokov,23/03/2000,0
+30,Action,Venom,Sam Raimi,22/10/2000,0
+31,Romance,Notebook,Ann Summer,28/10/2000,0
+32,Romance,Twilight,Steph Meyer,19/10/2000,0
+33,Science,Life of Pi,Yann Martel,22/07/2000,0
+34,Fictionn,Lolita,Validr Nabokov,23/03/2000,0
+35,Action,Venom,Sam Raimi,22/10/2000,0
+36,Action,Venom,Sam Raimi,22/10/2000,0
+37,Motivational,Money,Jupiter Sui,22/08/2000,0
+38,Motivational,Gifted Hands,Ben Carson,23/08/2002,0
+39,Motivational,Big Brain,Jupiter Sui,22/08/2000,0
+40,Motivational,Discipline,Sam Jk,23/08/2002,0
+41,Motivational,Love art,David Idowu,22/08/2000,0
+42,Motivational,Soul Ties,Dara Grace,23/08/2002,0
